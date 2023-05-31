@@ -12,23 +12,23 @@ Find out more about Swagger: [http://swagger.io](http://swagger.io)
 Run the following command to install the package and automatically add the dependency to your composer.json file:
 
 ```php
-composer require "pet/petstore-sdk:2.2.24"
+composer require "pet/petstore-sdk:2.2.3"
 ```
 
 Or add it to the composer.json file manually as given below:
 
 ```php
 "require": {
-    "pet/petstore-sdk": "2.2.24"
+    "pet/petstore-sdk": "2.2.3"
 }
 ```
 
 You can also view the package at:
-https://packagist.org/packages/pet/petstore-sdk#2.2.24
+https://packagist.org/packages/pet/petstore-sdk#2.2.3
 
 ## Initialize the API Client
 
-**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.24/doc/client.md)
+**_Note:_** Documentation for the client can be found [here.](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.3/doc/client.md)
 
 The following parameters are configurable for the API Client:
 
@@ -61,14 +61,14 @@ This API uses `Custom Authentication`.
 
 ## List of APIs
 
-* [Pet](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.24/doc/controllers/pet.md)
-* [Store](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.24/doc/controllers/store.md)
-* [User](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.24/doc/controllers/user.md)
+* [Pet](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.3/doc/controllers/pet.md)
+* [Store](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.3/doc/controllers/store.md)
+* [User](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.3/doc/controllers/user.md)
 
 ## Classes Documentation
 
-* [Utility Classes](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.24/doc/utility-classes.md)
-* [ApiException](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.24/doc/api-exception.md)
-* [HttpRequest](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.24/doc/http-request.md)
-* [HttpResponse](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.24/doc/http-response.md)
+* [Utility Classes](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.3/doc/utility-classes.md)
+* [ApiException](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.3/doc/api-exception.md)
+* [HttpRequest](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.3/doc/http-request.md)
+* [HttpResponse](https://www.github.com/Syed-Subtain/apimatic-Petstore-php/tree/2.2.3/doc/http-response.md)
 
